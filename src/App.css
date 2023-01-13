@@ -1,0 +1,6 @@
+@import url("https://fonts.googleapis.com/css2?family=Macondo&display=swap");
+.app-title {
+  font-family: "Macondo", cursive;
+  font-size: 4rem;
+  color: aquamarine;
+}
